@@ -599,12 +599,12 @@ progress {
 }
 
 .img-groombride {
-  padding: 0.25rem;
+  padding: 3rem;
   background-color: #fff;
   border: 1px solid var(--bs-border-color);
-  border-radius: 0.375rem;
+  border-radius: 3rem;
   max-width: 100%;
-  height: auto;
+  height: 3rem;
 }
 
 .img-fluid {

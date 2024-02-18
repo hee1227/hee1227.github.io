@@ -621,6 +621,10 @@ progress {
   height: auto;
 }
 
+.img-map {
+  max-width: 70%;
+  height: auto;
+
 .figure {
   display: inline-block;
 }
